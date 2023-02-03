@@ -2,10 +2,10 @@ to use, populate results.json
 
 ```json
 {
-  "initialized": free,
+  "initialized": false,
   "init_money": 10000,
   "stock_name": "SYMBOL",
-  "timeline": {},
+  "timeline": {}
 }
 ```
 
