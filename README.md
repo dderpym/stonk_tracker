@@ -1,3 +1,5 @@
+too lazy to make it neat or something because this is just for a history project
+
 to use, populate results.json
 
 ```json
