@@ -10,4 +10,6 @@ to use, populate results.json
 ```
 
 and run stock.py to update the tracker<br>
-to read your results, run result_reader.py
+to read your results, run result_reader.py<br>
+
+to run any script, ensure you have python installed (https://www.python.org/) and type python script_name
