@@ -1,6 +1,7 @@
 too lazy to make it neat or something because this is just for a history project
 
-to use, populate results.json
+to use, populate a results.json file in the same directory as the git page<br>
+here's a starter template.
 
 ```json
 {
