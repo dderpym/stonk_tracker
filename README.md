@@ -9,5 +9,5 @@ to use, populate results.json
 }
 ```
 
-and run stock.py
+and run stock.py to update the tracker<br>
 to read your results, run result_reader.py
