@@ -1,0 +1,17 @@
+{
+  "initialized": true,
+  "init_money": 10000,
+  "stock_name": "mrk",
+  "timeline": {
+    "1675398861.2168424": {
+      "dowjones": 34053.94140625,
+      "price": 103.45999908447266
+    }
+  },
+  "quantity": 96.0,
+  "money_spent": 9932.159912109375,
+  "init_price": 103.45999908447266,
+  "init_dji": 34053.94140625,
+  "latest_price": 203.45999908447266,
+  "latest_dji": 36053.94140625
+}
